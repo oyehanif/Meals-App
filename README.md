@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Demo Video 
+https://github.com/oyehanif/Meals-App/assets/83781553/4eb3b34b-abb8-48cd-8358-b46afa1952dd
+
+Hello Everyone thanks for checkout my meal app if you like it then please star it. and PR and recommendation are always apreciable. 
+
